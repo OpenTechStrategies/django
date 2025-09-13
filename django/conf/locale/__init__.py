@@ -254,6 +254,12 @@ LANG_INFO = {
         "name": "Upper Sorbian",
         "name_local": "hornjoserbsce",
     },
+    "ht": {
+        "bidi": False,
+        "code": "ht",
+        "name": "Haitian Creole",
+        "name_local": "Kreyòl Ayisyen",
+    },
     "hu": {
         "bidi": False,
         "code": "hu",
